@@ -1,0 +1,34 @@
+Design phase 1 ends in 7 minutes (as of 20:23 Central US)
+You are the monster
+Idea 1:
+ Replace all instances of "experience" with whatever I decide to call it (not experience, please no)
+ Concept:
+  Monsters have a "scariness" level
+  Monsters have abilities
+  Abilities have upgrades, which can be purchased with experience
+  Powerups are randomly distributed
+  Monsters with somewhat equal "scariness" will be neutral towards each other
+  Monsters with lower scariness will run away from ones with higher
+  You play in a world of monsters
+  Goal: Become the scariest monster
+  Humorous, very meta
+  Cartoonish
+  Player gains experience by scaring smaller monsters and loses experience by being near scarier ones
+  AI monsters are neutral towards each other (explain this somehow within the game world)
+ How to put risk in?
+  Health?
+  Player loses scariness when near scarier monsters ("Oh look! The coward is scared!")
+ Ideas:
+  Ultimate boss is the Ludum Dare theme creators
+
+
+
+Idea 2:
+ Concept:
+  You are the person in charge of coming up with Ludum Dare themes
+
+
+
+Idea 3:
+ Concept:
+  
